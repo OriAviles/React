@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Face",
+        "precio": 195,
+        "id": 1,
+        "descripcion": "Descripcion del producto",
+        "imagen": "#"
+    },
+    {
+        "nombre": "Body",
+        "precio": 80,
+        "id": 2,
+        "descripcion": "Descripcion del producto",
+        "imagen": "#"
+    },
+    {
+        "nombre": "Eyes",
+        "precio": 120,
+        "id": 3,
+        "descripcion": "Descripcion del producto",
+        "imagen": "#"
+    },
+    {
+        "nombre": "Lips",
+        "precio": 245,
+        "id": 4,
+        "descripcion": "Descripcion del producto",
+        "imagen": "#"
+    }
+]

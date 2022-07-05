@@ -46,9 +46,10 @@ function ItemCount({stock, initial}) {
     return (
         <>
             <div>
-                <Button size="sm" variant="success" onClick={sumarUno} disabled={disableMas}>+</Button>
-                <span>{num}</span>
                 <Button size="sm" variant="danger" onClick={restarUno} disabled={disableMenos}>-</Button>
+                <span>{num}</span>
+                <Button size="sm" variant="success" onClick={sumarUno} disabled={disableMas}>+</Button>
+               
             </div>
             <div>
                 <Button size="md" variant="warning" className='mb-2 mt-2' onClick={onAdd}>Agregar al carrito</Button>
